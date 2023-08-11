@@ -16,4 +16,5 @@ Para este proyecto se ideó y maquetó un prototipo de portafolio web, en el cua
 
 ## Imagen del Sitio
 
-![index](https://github.com/miguelcg09/EntregaFinal-CarrascoGuerra/assets/133621787/74bc43c2-4baa-46fa-a1dd-0d56cdba1403)
+![index](https://github.com/miguelcg09/EntregaFinal-CarrascoGuerra/assets/133621787/5363a748-46e7-4cdd-8267-263b03ec3e25)
+
