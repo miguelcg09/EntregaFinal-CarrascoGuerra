@@ -1,0 +1,22 @@
+.body-nohome{
+
+    background-image: radial-gradient(circle, #020304, #020e1b, #08142b, #15163a, #2b1445);    }
+.navbar-collapse {
+    align-items: center;
+    justify-content: space-between;
+  }
+
+.nav-nohome{
+    padding: 10px;
+    border-bottom: 1px solid rgb(95, 16, 138);
+    & ul li a{
+        color: rgb(158, 26, 230);
+        text-decoration: none;
+        list-style: none;
+        font-size: 20px;
+    }
+    & ul li:hover a{
+        color: rgb(254, 254, 254);
+    }
+}
+

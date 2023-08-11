@@ -1,0 +1,14 @@
+.main-index{
+    .hero{
+        @include main-index (column,center,center);
+        font-family: rubik;
+    }
+    h1{
+    font-size: 2.8125rem;
+    color: white;  
+    }
+    h2{
+    font-size: 1.5rem;
+    color: white;   
+    }
+}

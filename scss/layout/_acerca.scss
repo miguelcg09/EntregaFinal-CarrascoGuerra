@@ -1,0 +1,62 @@
+.about-section{
+    flex-direction: column-reverse;
+    .sobre-mi{
+        color: white;
+        padding-bottom: .625rem;
+        font-size: 3.75rem;   
+        display:flex;
+        font-family: rubik;
+        white-space: nowrap;
+        border-right: 2px solid;
+        width: 8ch; 
+        animation: typing 2s steps(8),
+        blink .5s infinite step-end alternate;
+        overflow: hidden;
+        
+    }
+    .text-wrap{
+        color: rgb(187, 184, 184);
+        font-size: 1.25rem;
+    }
+    span{
+        color: rgb(158, 26, 230);
+        font-weight: 700;
+    }
+    .my-img{
+        max-width: 100px;
+        margin: 0 auto;
+        padding: 3rem;
+        & img{
+            border-radius: 0.5rem;
+            min-width: 16rem;
+        }
+        
+    }
+}
+
+@keyframes typing{
+    from { width: 0}
+}
+@keyframes blink {
+    50% {border-color: transparent}
+}
+
+.Career-Section {
+    
+	.img-box {
+        max-width: 500px;
+        margin: 0 auto;
+        padding: 10px;
+		img {
+
+            border-radius: 0.5rem;
+            min-width: 16rem;
+			
+		}
+	}
+}
+
+.Career-Section .text-wrap{
+    color: rgb(187, 184, 184);
+    font-size: 1.25rem;
+}
